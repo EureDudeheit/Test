@@ -3,3 +3,7 @@
 22:57 Änderung 1
 
 jetzadla
+
+noch was
+
+20.12.2023: Änderung von heute -> mal die Kommentare beim Commiten checken
